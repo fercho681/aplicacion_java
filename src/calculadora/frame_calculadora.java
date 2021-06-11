@@ -160,7 +160,7 @@ public class frame_calculadora extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField1ActionPerformed
 
     private void LimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LimpiarActionPerformed
-        // TODO add your handling code here:
+        // Limpiar pantalla:
         jTextField1.setText("");
         jTextField2.setText("");
         jTextField3.setText("");
