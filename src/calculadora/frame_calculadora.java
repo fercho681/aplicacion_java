@@ -164,7 +164,7 @@ public class frame_calculadora extends javax.swing.JFrame {
         jTextField1.setText("");
         jTextField2.setText("");
         jTextField3.setText("");
-        jTextField4.setText("");
+        jTextField4.setText("")
         jTextField5.setText("");
         jTextField6.setText("");
     }//GEN-LAST:event_LimpiarActionPerformed
