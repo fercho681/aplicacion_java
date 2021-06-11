@@ -173,7 +173,7 @@ public class frame_calculadora extends javax.swing.JFrame {
         // Calcula los numeros:
         double n1, n2, s, r, m, d;
         n1=Double.parseDouble(jTextField1.getText());
-        n1=Double.parseDouble(jTextField2.getText());
+        n2=Double.parseDouble(jTextField2.getText());
         s=n1+n2;
         r=n1-n2;
         m=n1*n2;
