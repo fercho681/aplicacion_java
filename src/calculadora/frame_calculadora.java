@@ -170,7 +170,7 @@ public class frame_calculadora extends javax.swing.JFrame {
     }//GEN-LAST:event_LimpiarActionPerformed
 
     private void CalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CalcularActionPerformed
-        // TODO add your handling code here:
+        // Calcula los numeros:
         double n1, n2, s, r, m, d;
         n1=Double.parseDouble(jTextField1.getText());
         n2=Double.parseDouble(jTextField2.getText());
